@@ -1,0 +1,433 @@
+ 
+
+
+.header{
+    width:100%;
+    height:86px;
+    background: #000000;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+
+}
+body{
+    margin: 0%;
+    background: #000000;
+font-family: "Open Sans", sans-serif;
+
+}
+.left-selection{
+    width:225px;
+    height:86px;
+    margin-left: 200px;
+    
+}
+.logo{
+    width: 225px;
+    height: 47px;
+    margin-top: 15px;
+}
+.logo:hover{
+    cursor: pointer;
+}
+
+.right-selection{
+    width: 700px;
+    height: 86px;
+    background:  #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 206px;
+    font-size: 15px;
+    color: #fff;
+    line-height: 1;
+}
+.search{
+    width:15.8px;
+    height: 17px;
+    padding-top: 33px;
+    color: #fff;
+}
+.search:hover{
+    color: solid red;
+
+
+}
+.content{
+    padding-top: 37px;
+    
+
+}
+.content:hover{
+    color:red;
+    border-top:solid red;
+    cursor: pointer;
+}
+.vid{
+    width: 100%;
+    height: 754px;
+    margin: 0%;
+    background-image: url(img/Web-1920-–-1\ \(1\).png);
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding-top: 10px;
+
+
+
+
+}
+.under{
+width: 1122px;
+height:108px;
+margin-top: 10px;
+}
+.text{
+    
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: 0px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    line-height: 1.35;
+    font-size: 18px;
+    margin-top: 20px;
+   
+}
+.line{
+    width:1451px;
+    height: 50px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    
+
+
+}
+.left{
+    width: 563px;
+    height: 1px;
+    background: #fff;
+}
+.innovation{
+    width:314px;
+    height: 50px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 46px;
+
+}
+.right{
+    width: 563px;
+    height: 1px;
+    background: #fff;
+    float: right;
+}
+
+
+
+
+.img{
+    width:1170px;
+    height: 500px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 182px;
+    margin-top: 35px;
+}
+.img:hover{
+    cursor: pointer;
+
+}
+.img1{
+    width: 500px;
+    height:500px;
+    overflow: hidden;
+
+}
+.img2{
+    width: 500px;
+    height:500px;
+    overflow: hidden;
+    
+}
+p{
+    margin: 0%;
+
+}
+.bikes{
+    width:1451px;
+    height: 90px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.first{
+    width: 563px;
+    height: 1px;
+    background: #fff;
+}
+.center{
+    width:400px;
+    height: 50px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 44px;
+    line-height: 1;
+
+}
+.second{
+    width: 563px;
+    height: 1px;
+    background: #fff;
+    float: right;
+}
+.cycles{
+    width:1170px;
+    height: 500px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 182px;
+    margin-top: 35px;
+    
+    
+
+}
+.cycle1{
+    width: 572px;
+    height:501px;
+    overflow: hidden;
+
+}
+.one{
+    width:528px;
+    height:322px;
+}
+.text1{
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+}
+.cycle2{
+    width: 572px;
+    height:501px;
+    overflow: hidden;
+    
+}
+.two{
+    width: 528px;
+    height:322px;
+}
+.text2{
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+}
+.button1{
+    width: 297px;
+    height: 43px;
+    background: #e10707;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 18px;
+}
+.button1:hover{
+    cursor: pointer;
+}
+.button2:hover{
+    cursor: pointer;
+}
+.button3:hover{
+    cursor: pointer;
+}
+.button4:hover{
+    cursor: pointer;
+}
+.button5:hover{
+    cursor: pointer;
+}
+.button2{
+    width: 297px;
+    height: 43px;
+    background: #e10707;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 37px;
+}
+.nextcol{
+    width:1170px;
+    height: 500px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 182px;
+    margin-top: 35px;
+    
+    
+
+}
+.cycle3{
+    width: 572px;
+    height:501px;
+    overflow: hidden;
+
+}
+.three{
+    width:528px;
+    height:322px;
+}
+.text3{
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+}
+.cycle4{
+    width: 572px;
+    height:501px;
+    overflow: hidden;
+    
+}
+.four{
+    width: 528px;
+    height:322px;
+}
+.text4{
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+    margin-left:30px;
+}
+.button3{
+    width: 297px;
+    height: 43px;
+    background: #e10707;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 64px;
+}
+.button4{
+    width: 297px;
+    height: 43px;
+    background: #e10707;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 34px;
+}
+.bicycles{
+    width:1170px;
+    height: 500px;
+    margin-left: 182px;
+    margin-top: 67px;
+    
+    
+
+}
+.cycle5{
+    width: 572px;
+    height:501px;
+    overflow: hidden;
+
+}
+.five{
+    width:528px;
+    height:322px;
+}
+.text5{
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+}
+.button5{
+    width: 334px;
+    height: 43px;
+    background: #e10707;
+    border-radius: 5px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.privacy{
+    width:400px;
+    height: 20px;
+    margin-top: 44px;
+}
+.policy{
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    font-weight: 600;
+}
+.last{
+    display:flex;
+    justify-content: center;
+
+}
+.lastlogo{
+    width:130px;
+    height:30px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+.logospace{
+    width:20px;
+    height: 20px;
+}
+.logospace{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
